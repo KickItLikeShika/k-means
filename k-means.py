@@ -12,7 +12,7 @@ def plot_clusters(X, idx, centroids):
     cluster3 = X[np.where(idx == 2)[0], :]
 
 
-    # Draw the frist cluster
+    # Draw the first cluster
     plt.scatter(cluster1[:, 0], cluster1[:, 1], s=30, color='r')
     plt.scatter(centroids[0, 0], centroids[0, 1], s=300, color='r')
 
