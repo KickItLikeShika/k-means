@@ -2,6 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.io import loadmat
 
+
+
 def plot_clusters(X, idx, centroids):
     """Plot the data and the centroids."""
     # Make the three clusters
