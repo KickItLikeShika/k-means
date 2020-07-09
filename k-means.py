@@ -134,11 +134,13 @@ def main():
     max_iters = 5
 
     for i in range(3):
+        # Run k-means and get the indecies and centroids
         idx, centroids = run_k_means(X, initial_centroids, max_iters)
-
+    
         print("IDX: ", idx)
         print("CENTROIDS: ", centroids)
 
+        # Plot the data and the clusters 
         plot_clusters(X, idx, centroids)
 
 
