@@ -46,6 +46,7 @@ def run_k_means(X, init_centroids, max_iters):
     return idx, centroids
 
 
+
 def move_centroids(X, idx, k):
     """Move the cenroids to the right new place."""
     # Number of data and features
