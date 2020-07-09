@@ -8,7 +8,7 @@ We assign the points, then we move the cetroids, that's how it goes.
 
 ## Requirements 
 
-These models has been tested and developed using the following libraries: 
+This algorithm has been tested and developed using the following libraries: 
 
     - python==3.8.2
     - numpy==1.13.3
