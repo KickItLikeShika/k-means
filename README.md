@@ -4,7 +4,7 @@ This repositry contains the python implementation of K-means clustering algorith
 
 Applied the k-means on a matlab data from Machine learning course from stanford university by Andrew ng.
 
-We assign the points, then we move the cetroids, that's how it goes.
+We assign the points, then move the cetroids, that's how it goes.
 
 ## Requirements 
 
