@@ -1,6 +1,6 @@
 # K-means
 
-This repositry contains the python implementation of K-means clustering algorithm (Unsupervised learning algorithm).
+This repository contains the python implementation of K-means clustering algorithm (Unsupervised learning algorithm).
 
 Applied the k-means on a matlab data from Machine learning course from stanford university by Andrew ng.
 
